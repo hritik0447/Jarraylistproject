@@ -45,7 +45,7 @@ public class ArrayListProject {
 break;
        case 4:
         isTrue = false;
-        System.out.println("Good Bye!");
+        System.out.println("Good Byeee!");
         break;
         default:
           System.out.println("Invalid Value");
